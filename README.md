@@ -1,4 +1,4 @@
-# TableOfContents
+# Table Of Contents
 
 1. Courses
     1. TychoClub https://github.com/SocratesAcademy/TychoClub
