@@ -8,6 +8,8 @@
 2. Book 
     1. tricks of the trade notebook https://nbviewer.jupyter.org/github/SocratesAcademy/tricks/blob/main/tricks.ipynb
     2. tricks of the trade slides https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/tricks/blob/main/tricks.ipynb#/
+    3. The Craft of Writing Jupyter Notebook https://nbviewer.jupyter.org/github/computational-class/craft/blob/main/The-Craft-of-Writing.ipynb?flush_cache=true
+    4. The Craft of Writing Slides https://nbviewer.jupyter.org/format/slides/github/computational-class/craft/blob/main/The-Craft-of-Writing.ipynb#/
 4. Research 
     1. Replicating the Google Flu study with CDC's ili data of Mid Atlantic region https://github.com/SocratesAcademy/replicate_google_flu_study
 5. Visualizations
