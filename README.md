@@ -18,3 +18,5 @@
 7. Writings
     1. The-Craft-of-Writing Jupyter Notebook https://nbviewer.jupyter.org/github/SocratesAcademy/craft/blob/main/The-Craft-of-Writing.ipynb?flush_cache=true
     2. The-Craft-of-Writing Slides https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/The-Craft-of-Writing.ipynb#/
+8. Play
+    1. Tarot Card https://github.com/SocratesAcademy/tarot  Webpage: https://socratesacademy.github.io/tarot/ 
