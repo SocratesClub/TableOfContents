@@ -13,6 +13,7 @@
     2. People's Daily 人民日报（1946-2003) https://github.com/SocratesAcademy/rmrb
     3. Standardized Project Gutenberg Corpus Tutorial https://github.com/SocratesAcademy/gutenberg-analysis
     4. U.S-Presidential-Speeches https://github.com/SocratesAcademy/U.S-Presidential-Speeches
+    5. Awesome Public Datasets https://github.com/awesomedata/awesome-public-datasets
 5. Visualizations
     1. Vis of Time Use Survey https://github.com/SocratesAcademy/tus
 6. Building and Updating Your Personal Website with Mobirise https://socratesacademy.github.io
